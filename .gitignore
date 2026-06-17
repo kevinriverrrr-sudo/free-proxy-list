@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+state.json
+proxy_scraper.log
+proxies/*.txt
+!proxies/.gitkeep
