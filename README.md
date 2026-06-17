@@ -27,7 +27,7 @@ Invalid proxies are removed automatically; new proxies are added in batches of
 
 ## Last update
 
-`2026-06-17 20:04 UTC` (UTC)
+`2026-06-17 20:06 UTC` (UTC)
 
 ## License
 
