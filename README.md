@@ -9,11 +9,11 @@ a test URL through the proxy).
 
 | File        | Protocol | Count |
 |-------------|----------|-------|
-| `proxies/http.txt`   | HTTP   | 13 |
+| `proxies/http.txt`   | HTTP   | 9 |
 | `proxies/https.txt`  | HTTPS  | 0 |
 | `proxies/socks4.txt` | SOCKS4 | 0 |
 | `proxies/socks5.txt` | SOCKS5 | 0 |
-| `proxies/all.txt`    | ALL    | 13 |
+| `proxies/all.txt`    | ALL    | 9 |
 
 Each file contains one proxy per line in `ip:port` format.
 
@@ -27,7 +27,7 @@ Invalid proxies are removed automatically; new proxies are added in batches of
 
 ## Last update
 
-`2026-06-17 20:23 UTC` (UTC)
+`2026-06-17 20:24 UTC` (UTC)
 
 ## License
 
